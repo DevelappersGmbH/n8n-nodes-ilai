@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-ilai.ilai",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "Sales", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/develappers/n8n-nodes-ilai?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/develappers/n8n-nodes-ilai?tab=readme-ov-file"
+			}
+		]
+	}
+}
