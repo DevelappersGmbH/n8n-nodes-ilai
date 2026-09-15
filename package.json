@@ -51,7 +51,7 @@
 		"jest": "^30.0.0",
 		"n8n-workflow": "*",
 		"prettier": "3.8.3",
-		"release-it": "20.2.0",
+		"release-it": "21.0.2",
 		"ts-jest": "^29.2.5",
 		"typescript": "5.9.3"
 	},
