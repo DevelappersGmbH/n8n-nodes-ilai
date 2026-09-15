@@ -47,7 +47,7 @@
 	"devDependencies": {
 		"@n8n/node-cli": "*",
 		"@types/jest": "^30.0.0",
-		"eslint": "9.39.4",
+		"eslint": "10.10.0",
 		"jest": "^30.0.0",
 		"n8n-workflow": "*",
 		"prettier": "3.8.3",
